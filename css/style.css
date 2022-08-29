@@ -294,7 +294,10 @@ h5 {
   background-image: url("../img/insta6.jpg");
 }
 /*FOOTERCONTATO*/
-#contato-rodape a {
+#contato-rodape a,
+#contato-rodape a:visited,
+#contato-rodape a:link {
+  color: #626262;
   text-decoration: none;
 }
 #contato-rodape #links-rodape {
