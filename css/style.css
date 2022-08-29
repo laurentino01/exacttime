@@ -164,8 +164,8 @@ h5 {
 }
 #cards:last-child h5,
 #cards:last-child a,
-a:visited,
-a:link {
+#cards:last-child a:visited,
+#cards:last-child a:link {
   color: #626262;
 }
 #cards a,
