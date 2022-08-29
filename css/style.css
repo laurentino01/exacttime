@@ -10,7 +10,10 @@ h2,
 h5 {
   color: #fff;
 }
-
+body,
+html {
+  overflow: hidden;
+}
 /*HEADER*/
 #navbar {
   background-color: #252525;
